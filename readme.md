@@ -50,4 +50,3 @@
 
 # 图片网址生成
 ![QQ图片20210606161613.jpg](https://s2.loli.net/2022/01/19/sohr1vfVQUmBMta.jpg)
-![五子棋]("https://s2.loli.net/2022/01/19/sohr1vfVQUmBMta.jpg")
